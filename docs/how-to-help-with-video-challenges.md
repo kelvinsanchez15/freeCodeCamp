@@ -122,7 +122,7 @@ More answers
 1
 ```
 
-Add/Update the  question text under the part that shows:
+Add/Update the question text under the part that shows:
 ```
 # --question--
 
